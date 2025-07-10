@@ -1,3 +1,9 @@
+📢 Important Instructions
+👉 To access the Landing Page, click on the highlighted LandingPage text as shown in the image below:
+
+
+<img width="1366" height="618" alt="Screenshot (1039)" src="https://github.com/user-attachments/assets/7f8aabda-6984-4d36-a104-2d137c6d7e77" />
+
 ## ⚠ Important Notes
 
 ### 🔁 404 Error on Page Refresh
